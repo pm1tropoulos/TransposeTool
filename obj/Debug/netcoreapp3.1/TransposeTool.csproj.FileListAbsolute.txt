@@ -1,0 +1,13 @@
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\bin\Debug\netcoreapp3.1\TransposeTool.exe
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\bin\Debug\netcoreapp3.1\TransposeTool.deps.json
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\bin\Debug\netcoreapp3.1\TransposeTool.runtimeconfig.json
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\bin\Debug\netcoreapp3.1\TransposeTool.runtimeconfig.dev.json
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\bin\Debug\netcoreapp3.1\TransposeTool.dll
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\bin\Debug\netcoreapp3.1\TransposeTool.pdb
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\obj\Debug\netcoreapp3.1\TransposeTool.AssemblyInfoInputs.cache
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\obj\Debug\netcoreapp3.1\TransposeTool.AssemblyInfo.cs
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\obj\Debug\netcoreapp3.1\TransposeTool.csproj.CoreCompileInputs.cache
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\obj\Debug\netcoreapp3.1\TransposeTool.dll
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\obj\Debug\netcoreapp3.1\TransposeTool.pdb
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\obj\Debug\netcoreapp3.1\TransposeTool.genruntimeconfig.cache
+C:\Users\PANAGIOTIS\source\repos\TransposeTool\obj\Debug\netcoreapp3.1\TransposeTool.csprojAssemblyReference.cache
