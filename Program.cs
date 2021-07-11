@@ -23,19 +23,6 @@ namespace TransposeTool {
             ProcessFactory factory = new ProcessFactory(myFile);
             IFileProcess csvProcess = factory.GetProcess();
             csvProcess.processTranspose(myFile);
-            //ProcessFile csvTool = new ProcessFile(new TransposeToolCsv(path, fileType));
-            //TransposeToolCsv toolCsv = new TransposeToolCsv();
-
-            ////Step 1
-            //DataTable res = csvTool.ReadFromFile(path, fileType);
-
-            ////Step 2
-            //if (res != null && res.Columns.Count > 0) {
-            //    csvTool.ExportFile(res, path);
-            //    Console.ReadLine();
-            //    }
-            //else
-            //    Console.WriteLine("Parsed File is empty");
             }
 
 
