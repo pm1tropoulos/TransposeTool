@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DNLoW30fTFNhF3/6qZ2tCZwn4YLuTlFLCvIBHB3aSewwWesiDtfDQs4wmo2xsApzUv1c63AFpiCjtP5DyB7cQw==",
+  "dgSpecHash": "Pi1WhgRtD1tkb7xVba83u/2WkT6XxNF6r2txNjpnvX2AJR1ZBkPW0AvMVlKPMcyDObyq3glAFBykqtZ+69FBKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\PANAGIOTIS\\source\\repos\\TransposeTool\\TransposeTool.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PANAGIOTIS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
