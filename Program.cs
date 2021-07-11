@@ -10,7 +10,7 @@ using TransposeTool.ToolsClasses;
 namespace TransposeTool {
     class Program {
         static void Main(string[] args) {
-            //another comment
+            //another comment on GitHub
             Console.WriteLine("Please insert the csv File path...");
             string path = Console.ReadLine().ToString();
             string ext = Path.GetExtension(path).Remove(0,1);
