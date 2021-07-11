@@ -9,7 +9,6 @@ using TransposeTool.ToolsClasses;
 
 namespace TransposeTool {
     class Program {
-
         static void Main(string[] args) {
             Console.WriteLine("Please insert the csv File path...");
             string path = Console.ReadLine().ToString();
@@ -21,7 +20,5 @@ namespace TransposeTool {
             IFileProcess csvProcess = factory.GetProcess();
             csvProcess.processTranspose(myFile);
             }
-
-
         }
     }
